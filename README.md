@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Translate numbers dynamically into Hex, Binary, and Octal lists.
+  name: binary-hex-converter version: 1.0 type: Repository author: VarshuAi description: >   Translate numbers dynamically into Hex, Binary, and Octal lists. primary_tech: CSS
 primary_tech: CSS
 ```
 
